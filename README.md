@@ -16,6 +16,14 @@ This project demonstrates the use of CameraX in Android to capture images and vi
 - Minimum SDK version: 21
 - CameraX dependencies
 
+## Demo
+
+
+
+https://github.com/Tonistark92/CameraX_Example/assets/86676102/14e71b57-6dd5-4300-bd94-a994c65a0b9e
+
+
+
 ## Installation
 
 1. **Clone the Repository**:
