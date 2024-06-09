@@ -28,7 +28,7 @@ https://github.com/Tonistark92/CameraX_Example/assets/86676102/14e71b57-6dd5-430
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/CameraXProject.git
+    git clone [ https://github.com/yourusername/CameraXProject](https://github.com/Tonistark92/CameraX_Example).git
     cd CameraXProject
     ```
 
