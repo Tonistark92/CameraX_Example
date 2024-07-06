@@ -10,32 +10,8 @@ This project demonstrates the use of CameraX in Android to capture images and vi
 - **Switch Cameras**: Easily switch between the front and back cameras.
 - **Gallery**: View captured photos in a bottom sheet gallery.
 
-## Requirements
-
-- Android Studio
-- Minimum SDK version: 21
-- CameraX dependencies
-
-## Demo
-
-
-
-https://github.com/Tonistark92/CameraX_Example/assets/86676102/14e71b57-6dd5-4300-bd94-a994c65a0b9e
-
-
 
 ## Installation
-
-1. **Clone the Repository**:
-    ```bash
-    git clone [ https://github.com/yourusername/CameraXProject](https://github.com/Tonistark92/CameraX_Example).git
-    cd CameraXProject
-    ```
-
-2. **Open in Android Studio**:
-    - Open Android Studio.
-    - Select `Open an existing Android Studio project`.
-    - Navigate to the cloned repository and select it.
 
 3. **Add CameraX Dependencies**:
     Ensure the following dependencies are added in your `build.gradle` (app level):
